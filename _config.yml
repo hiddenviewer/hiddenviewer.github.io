@@ -13,6 +13,7 @@ description: "A beautiful narrative written with the world's most elegant publis
 short_url: 'hiddenviewer.github.io'
 google_analytics: UA-69281367-1
 disqus: username
+url: https://hiddenviewer.github.io/
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
